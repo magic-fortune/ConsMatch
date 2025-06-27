@@ -3,6 +3,8 @@
 ![The pipeline of MCFNet.The dashed line denotes the supervised signal.](./ICONIP.png)
 
 ## Dataset
+Dataset could be got by [LA](https://github.com/yulequan/UA-MT/tree/master/data) and [ACDC](https://github.com/HiLab-git/SSL4MIS/tree/master/data/ACDC) .
+
 
 ## Run
 
@@ -20,3 +22,11 @@ bash train.sh
 ```
 
 ## Result
+
+
+
+## 
+Our code is largely based on [UniMatch](https://github.com/LiheYoung/UniMatch/tree/main/more-scenarios/medical).We acknowledge the valuable contributions of these authors and hope our work will positively impact future research.
+
+
+
