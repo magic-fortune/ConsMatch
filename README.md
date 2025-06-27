@@ -21,7 +21,9 @@ cd code
 bash train.sh
 ```
 
-## Result
+## Comparison with other methods
+
+![Comparison](./out.png)
 
 
 
