@@ -1,6 +1,6 @@
 # MCFNet: A Multi-View Contrastive and Feature-Consistent Framework for Semi-Supervised Medical Image Segmentation
 
-![The pipeline of MCFNet.The dashed line denotes the supervised signal.](./ICONIP.png)
+![The pipeline of MCFNet.The dashed line denotes the supervised signal.](./SMC.png)
 
 ## Dataset
 Dataset could be got by [LA](https://github.com/yulequan/UA-MT/tree/master/data) and [ACDC](https://github.com/HiLab-git/SSL4MIS/tree/master/data/ACDC) .
