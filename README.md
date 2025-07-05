@@ -1,4 +1,4 @@
-# MCFNet: A Multi-View Contrastive and Feature-Consistent Framework for Semi-Supervised Medical Image Segmentation
+# ConsMatch: Semi-Supervised Medical Image Segmentationvia Multi-View Contrast and Feature Consistency
 
 ![The pipeline of MCFNet.The dashed line denotes the supervised signal.](./SMC.png)
 
